@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity)
 ![C#](https://img.shields.io/badge/Language-C%23-239120?style=for-the-badge&logo=csharp)
-![Status](https://img.shields.io/badge/Status-In_Development-yellow?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Archived-lightgrey?style=for-the-badge)
 
 ## 🎯 Project Description
 
